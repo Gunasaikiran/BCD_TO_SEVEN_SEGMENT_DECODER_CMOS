@@ -6,36 +6,42 @@ their power capacities.<br>
 <h4>Technologies Used:</h4>
 <li>CMOS</li>
 <li>Transmission Gate</li>
-<li>Pass Transistor</li><br><br>
+<li>Pass Transistor</li><br>
 
 <h4>Softwares Used:</h4>
 <li>Ngspice:Code and debug</li>
 <li>Microwind:Design</li><br>
 
-1]Circuit Picture:
+
+1]Seven Segment:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Speed-controller-of-DC_Motor/blob/main/Speed%20Controller%20Proteus.png" >
+  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/7-segment.png" >
+</p>
+
+2]Circuit Picture:
+<p align="center">
+  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/bcdto7logicckt.png" >
 </p>
 
 
 
-2]Cmos Layout:
+3]Cmos Layout:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Speed-controller-of-DC_Motor/blob/main/Speed%20Controller%20Tinker Cad.png" >
+  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/Cmos%20TotalPic.png" >
 </p>
 
 
 
 
-3]Transmission Gate Layout:
+4]Transmission Gate Layout:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Speed-controller-of-DC_Motor/blob/main/Speed%20Controller%20Matlab.png" >
+  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/Modified_TOtal.png" >
 </p>
 
 
-3]Output:
+5]Output:
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Speed-controller-of-DC_Motor/blob/main/Speed%20Controller%20Matlab.png" >
+  <img src="https://github.com/Gunasaikiran/BCD_TO_SEVEN_SEGMENT_DECODER_CMOS/blob/main/Output%20Pictures/Total_op_mod.png" >
 </p>
 Add a Star 🌟 to this 👆 Repository.<br>
 For Sponsor or Project Enquiry
